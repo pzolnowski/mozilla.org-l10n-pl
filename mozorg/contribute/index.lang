@@ -3,7 +3,7 @@
 
 # Used for HTML title attribute
 ;Volunteer Opportunities at Mozilla
-Volunteer Opportunities at Mozilla
+Wolontariat w Mozilli
 
 
 # this string is used for accessibility reasons, it's not visible in the page
@@ -13,634 +13,634 @@ Menu {ok}
 
 # this br is for formatting, omit or reposition as needed
 ;Why<br> volunteer
-Why<br> volunteer
+Dlaczego warto<br> zostać wolontariuszem
 
 
 # this br is for formatting, omit or reposition as needed
 ;Find<br> an event
-Find<br> an event
+Wyszukaj<br> wydarzenie
 
 
 # this br is for formatting, omit or reposition as needed
 ;Meet<br> Mozillians
-Meet<br> Mozillians
+Poznaj<br> członków Mozilli
 
 
 ;Get involved
-Get involved
+Dołącz do nas
 
 
 ;Your country
-Your country
+Kraj
 
 
 # This is a hint used as a placeholder in a country selection dropdown menu. It should be short.
 ;I live in&hellip;
-I live in&hellip;
+Mieszkam w&hellip;
 
 
 ;Volunteer with Mozilla!
-Volunteer with Mozilla!
+Zostań wolontariuszem w Mozilli!
 
 
 # This label accompanies a numeric count. The number appears before this string, unfortunately we don't have support for plural forms.
 ;active Mozillians worldwide
-active Mozillians worldwide
+aktywnych członków Mozilli na całym świecie
 
 
 # This label accompanies a numeric count. The number appears before this string, unfortunately we don't have support for plural forms.
 ;upcoming events around the globe
-upcoming events around the globe
+nadchodzących wydarzeń na całym świecie
 
 
 # This label accompanies a numeric count. The number appears before this string, unfortunately we don't have support for plural forms. The phrase "and counting" means there are always more being added; not sure how that idiom might translate so do your best :)
 ;languages and counting, on every continent
-languages and counting, on every continent
+języków (i więcej z każdym wydaniem), na każdym kontynencie
 
 
 ;Join a global community of game-changers.
-Join a global community of game-changers.
+Dołącz do ogólnoświatowej społeczności wspierającej zmiany.
 
 
 # this br is for formatting, omit or reposition as needed
 ;Volunteer as much as you like. Or as little.<br> It’s totally up to you.
-Volunteer as much as you like. Or as little.<br> It’s totally up to you.
+Decyduj sam, jak bardzo chcesz się zaangażować. <br> To zależy zupełnie od Ciebie.
 
 
 # this br is for formatting, omit or reposition as needed
 ;Share your skills and pick up<br> a few new ones along the way.
-Share your skills and pick up<br> a few new ones along the way.
+Podziel się swoimi umiejętnościami i w międzyczasie<br> zdobądź kilka nowych.
 
 
 ;Volunteering with Mozilla&hellip;
-Volunteering with Mozilla&hellip;
+Wolontariat w Mozilli&hellip;
 
 
 # This paragraph follows the headline, "Volunteering with Mozilla...", so the first sentence continues from that fragment. The line breaks are for formatting.
 ;is about more than lending a hand. It’s about learning, collaborating and sharing your skills with a global community of Mozillians — coders, organizers, activists and more — who help shape the Web every day.
-is about more than lending a hand. It’s about learning, collaborating and sharing your skills with a global community of Mozillians — coders, organizers, activists and more — who help shape the Web every day.
+to więcej niż pomoc. Tu chodzi o naukę, współpracę i dzielenie się umiejętnościami z globalną społecznością Mozilli — programistami, organizatorami, aktywistami i nie tylko. Są to osoby, które pomagają kształtować Internet każdego dnia.
 
 
 ;See our community in action
-See our community in action
+Zobacz naszą społeczność w akcji
 
 
 ;How Mozillians help every day
-How Mozillians help every day
+Jak członkowie Mozilli pomagają każdego dnia
 
 
 # Caption used under Mozillians photo. You can replace $middot; with a different separator if it doesn't work for your locale
 ;Spain &middot; Activism
-Spain &middot; Activism
+Hiszpania &middot; Aktywista
 
 
 # Caption used under Mozillians photo. You can replace $middot; with a different separator if it doesn't work for your locale
 ;Philippines &middot; Activism
-Philippines &middot; Activism
+Filipiny &middot; Aktywistka
 
 
 # Caption used under Mozillians photo. You can replace $middot; with a different separator if it doesn't work for your locale
 ;Switzerland &middot; Coding
-Switzerland &middot; Coding
+Szwajcaria &middot; Programista
 
 
 # Caption used under Mozillians photo. You can replace $middot; with a different separator if it doesn't work for your locale
 ;India &middot; Teaching
-India &middot; Teaching
+Indie &middot; Nauczyciel
 
 
 ;Read his story
-Read his story
+Poznaj go bliżej
 
 
 ;Read her story
-Read her story
+Poznaj ją bliżej
 
 
 ;Want to get involved? Here’s how.
-Want to get involved? Here’s how.
+Chcesz do nas dołączyć? Wyjaśniamy jak.
 
 
 ;Choose what interests you and tell us how you’d like to help
-Choose what interests you and tell us how you’d like to help
+Zdecyduj, co Cię interesuje i powiedz nam, w jaki sposób chciałbyś pomóc
 
 
 ;Stand by for an email that will connect you to the Mozilla community
-Stand by for an email that will connect you to the Mozilla community
+Czekaj na wiadomość e-mail, który połączy Cię ze społecznością Mozilli
 
 
 ;Create your Mozillians account and share your contributions with the world
-Create your Mozillians account and share your contributions with the world
+Utwórz konto członka Mozilli i dziel się swoimi działaniami ze światem
 
 
 ;Get started
-Get started
+Rozpocznij
 
 
 ;Not ready to dive in just yet?
-Not ready to dive in just yet?
+Nie jesteś jeszcze gotowy, aby się zaangażować?
 
 
 ;Here are a few other ways you can support Mozilla right now.
-Here are a few other ways you can support Mozilla right now.
+Poniżej przedstawiamy kilka innych sposobów na wsparcie Mozilli.
 
 
 ;Donate to Mozilla
-Donate to Mozilla
+Przekaż datek na rzecz Mozilli
 
 
 ;Read our Manifesto
-Read our Manifesto
+Przeczytaj nasz manifest
 
 
 ;Like us on Facebook
-Like us on Facebook
+Polub nas na Facebooku
 
 
 ;Follow us on Twitter
-Follow us on Twitter
+Śledź nas na Twitterze
 
 
 ;Upcoming event
-Upcoming event
+Nadchodzące wydarzenia
 
 
 ;See all events
-See all events
+Wszystkie wydarzenia
 
 
 ;Communicate
-Communicate
+Społeczność
 
 
 ;Mozilla communities
-Mozilla communities
+Społeczności Mozilli
 
 
 ;Mailing lists
-Mailing lists
+Listy dyskusyjne
 
 
 ;IRC channels
-IRC channels
+Kanały IRC 
 
 
 ;More links
-More links
+Więcej odnośników
 
 
 ;Submit Firefox feedback
-Submit Firefox feedback
+Prześlij opinię na temat Firefoksa
 
 
 ;Explore Mozilla careers
-Explore Mozilla careers
+Odkryj możliwości kariery w Mozilli
 
 
 ;Get help with Firefox
-Get help with Firefox
+Uzyskaj pomoc w związku z Firefoksem
 
 
 ;Subscribe to community events
-Subscribe to community events
+Zapisz się na wydarzenia społecznościowe
 
 
 ;Get community updates
-Get community updates
+Bądź na bieżąco ze społecznością
 
 
 # Used as title of the /stories sub-page
 ;Mozillian Stories
-Mozillian Stories
+Historie członków Mozilli
 
 
 # Used as a toggle to display more content.
 ;More
-More
+Więcej
 
 
 # Used as a toggle to display less content.
 ;Less
-Less
+Mniej
 
 
 ;Read more Mozillian stories
-Read more Mozillian stories
+Przeczytaj więcej historii członków Mozilli
 
 
 ;Discover even more stories on Twitter with <a href="%(link_hashtag)s">#IAmAMozillian</a>
-Discover even more stories on Twitter with <a href="%(link_hashtag)s">#IAmAMozillian</a>
+Odkryj jeszcze więcej historii na Twitterze poprzez <a href="%(link_hashtag)s">#IAmAMozillian</a>
 
 
 ;More coming soon
-More coming soon
+Więcej już wkrótce
 
 
 # Used as title of the /signup sub-page
 ;Get Involved: Volunteer Opportunities at Mozilla
-Get Involved: Volunteer Opportunities at Mozilla
+Pomóż nam: wolontariat w Mozilli
 
 
 ;To get started, tell us what interests you.
-To get started, tell us what interests you.
+Na początek powiedz nam, co Cię interesuje.
 
 
 ;Choose one for now. You can always contribute to other areas later.
-Choose one for now. You can always contribute to other areas later.
+Na razie wybierz jedną dziedzin. Zawsze będzie możliwość zaangażowania się w inne w późniejszym terminie.
 
 
 # This text is used for accessibility reasons, it's not visible
 ;Where would you like to get started?
-Where would you like to get started?
+Na jakim polu chciałbyś się zaangażować?
 
 
 ;Coding
-Coding
+Programowanie
 
 
 ;More about coding
-More about coding
+Więcej o programowaniu
 
 
 ;Contribute code to a whole range of Mozilla products, including Firefox and Firefox OS.
-Contribute code to a whole range of Mozilla products, including Firefox and Firefox OS.
+Wnieś swój wkład w programowanie całej gamy produktów Mozilli, w tym Firefoksa i system Firefox OS.
 
 
 ;Testing
-Testing
+Testowanie
 
 
 ;More about testing
-More about testing
+Więcej o testowaniu
 
 
 ;Help make the Mozilla products you use — and love — even better.
-Help make the Mozilla products you use — and love — even better.
+Pomóż czynić produkty Mozilli, które używasz i uwielbiasz, jeszcze lepszymi.
 
 
 ;Writing
-Writing
+Redagowanie tekstów
 
 
 ;More about writing
-More about writing
+Więcej o redagowaniu tekstów
 
 
 ;Lend your voice to Mozilla — from blogging and social media to providing technical documents for users and developers.
-Lend your voice to Mozilla — from blogging and social media to providing technical documents for users and developers.
+Użycz swojego głosu Mozilli — od blogów i mediów społecznościowych po dokumentacje techniczne dla użytkowników i programistów.
 
 
 ;Teaching
-Teaching
+Nauczanie
 
 
 ;More about teaching
-More about teaching
+Więcej o nauczaniu
 
 
 ;Share your skills with a community that’s eager to learn. Take advantage of our free tools, teaching resources and events.
-Share your skills with a community that’s eager to learn. Take advantage of our free tools, teaching resources and events.
+Podziel się swoimi umiejętnościami ze społecznością chętną do nauki. Korzystaj z naszych darmowych narzędzi, materiałów naukowych i wydarzeń.
 
 
 ;Helping
-Helping
+Pomoc
 
 
 ;More about helping
-More about helping
+Więcej o pomocy
 
 
 ;Provide support to users who need it and help everyone get the most out of their Mozilla products.
-Provide support to users who need it and help everyone get the most out of their Mozilla products.
+Zapewniaj wsparcie użytkownikom, którzy go potrzebują oraz pomagaj wszystkim czerpać jak najwięcej z produktów Mozilli
 
 
 ;Translating
-Translating
+Tłumaczenie
 
 
 ;More about translating
-More about translating
+Więcej o tłumaczeniu
 
 
 ;Help make Mozilla stuff available in other languages. Translate everything from newsletters and websites to copy for Firefox and Firefox OS.
-Help make Mozilla stuff available in other languages. Translate everything from newsletters and websites to copy for Firefox and Firefox OS.
+Pomóż przełożyć produkty Mozilli na inne języki. Tłumacz wszystko, od newsletterów i stron internetowych po przeglądarkę Firefox i system Firefox OS.
 
 
 ;Activism
-Activism
+Aktywizm
 
 
 ;More about activism
-More about activism
+Więcej o aktywizmie
 
 
 ;Get involved with our opportunities to support freedom, security and privacy on the open Web.
-Get involved with our opportunities to support freedom, security and privacy on the open Web.
+Zaangażuj się w działalność promującą wolność, bezpieczeństwo i prywatność w otwartej sieci.
 
 
 ;I don’t know
-I don’t know
+Nie wiem
 
 
 ;More about how you can contribute
-More about how you can contribute
+Więcej o sposobach pomocy
 
 
 ;Not sure how you want to help? No problem. We can find the appropriate contribution activity for you.
-Not sure how you want to help? No problem. We can find the appropriate contribution activity for you.
+Nie jesteś pewny, w jaki sposób chciałbyś pomóc? Żaden problem. Znajdziemy zadanie odpowiednie dla Ciebie.
 
 
 ;Now tell us a little about yourself:
-Now tell us a little about yourself:
+Powiedz nam coś o sobie:
 
 
 ;Name
-Name
+Imię
 
 
 ;Email address
-Email address
+Adres e-mail
 
 
 ;Country
-Country
+Kraj
 
 
 ;select
-select
+wybierz
 
 
 ;Why do you want to be a Mozilla volunteer?
-Why do you want to be a Mozilla volunteer?
+Dlaczego chcesz zaangażować się w wolontariat Mozilli?
 
 
 ;(Optional)
-(Optional)
+(opcjonalne)
 
 
 ;I’m okay with Mozilla handling my info as explained in <a href="%(privacy)s">this Privacy Policy</a>
-I’m okay with Mozilla handling my info as explained in <a href="%(privacy)s">this Privacy Policy</a>
+Pozwalam Mozilli na wykorzystanie moich danych w sposób opisany w <a href="%(privacy)s">tej polityce prywatności</a>
 
 
 ;Start contributing
-Start contributing
+Zaangażuj się
 
 
 ;Sign me up for community updates
-Sign me up for community updates
+Chcę otrzymywać aktualności na temat społeczności
 
 
 ;(English)
-(English)
+(angielski)
 
 
 ;What particular area?
-What particular area?
+Jaka konkretna dziedzina Cię interesuje?
 
 
 ;What would you like to code?
-What would you like to code?
+Jaki obszar programowania Cię interesuje?
 
 
 ;What would you like to test?
-What would you like to test?
+Jaki obszar testowania Cię interesuje?
 
 
 ;What would you like to translate?
-What would you like to translate?
+Jaki obszar tłumaczenia Cię interesuje?
 
 
 ;What would you like to write?
-What would you like to write?
+Jaki obszar redagowania tekstów Cię interesuje?
 
 
 ;What would you like to teach?
-What would you like to teach?
+Jaki obszar nauczania Cię interesuje?
 
 
 ;Firefox
-Firefox
+Firefox {ok}
 
 
 ;Firefox OS
-Firefox OS
+Firefox OS {ok}
 
 
 ;Websites
-Websites
+Strony internetowe
 
 
 ;Firefox add-ons
-Firefox add-ons
+Dodatki Firefoksa
 
 
 ;HTML5 apps
-HTML5 apps
+Aplikacje HTML5
 
 
 ;Diagnosing Web compatibility issues
-Diagnosing Web compatibility issues
+Diagnostyka problemów z kompatybilnością sieci
 
 
 ;Online services
-Online services
+Usługi online
 
 
 ;Firefox and Firefox OS
-Firefox and Firefox OS
+Firefox i Firefox OS
 
 
 ;Web compatibility
-Web compatibility
+Kompatybilność sieci
 
 
 ;Product localization
-Product localization
+Lokalizacja produktu
 
 
 ;Website localization
-Website localization
+Lokalizacja strony internetowej
 
 
 ;I’d like to work on localization tools
-I’d like to work on localization tools
+Interesuje mnie praca nad narzędziami lokalizacyjnymi
 
 
 ;Social media
-Social media
+Media społecznościowe
 
 
 ;Journalism
-Journalism
+Dziennikarstwo
 
 
 ;Technical docs for users
-Technical docs for users
+Dokumentacje techniczne dla użytkowników
 
 
 ;Technical docs for developers
-Technical docs for developers
+Dokumentacje techniczne dla programistów
 
 
 ;Technical docs for Firefox add-ons
-Technical docs for Firefox add-ons
+Dokumentacje techniczne dla dodatków do Firefoksa
 
 
 ;Technical docs for HTML5 apps
-Technical docs for HTML5 apps
+Dokumentacje techniczne dla aplikacji HTML5
 
 
 ;Teach the Web (Webmaker)
-Teach the Web (Webmaker)
+Nauczaj o sieci (Webmaker)
 
 
 ;Open News fellowships
-Open News fellowships
+Drużyny Open News
 
 
 ;Hive - Community networks of educators/mentors
-Hive - Community networks of educators/mentors
+Hive – sieć społecznościowa nauczycieli/mentorów
 
 
 ;Open Web science research
-Open Web science research
+Badania naukowe na temat otwartej sieci
 
 
 ;Community Events
-Community Events
+Wydarzenia społecznościowe
 
 
 ;Find events
-Find events
+Znajdź wydarzenia
 
 
 ;By city, country, or event:
-By city, country, or event:
+Wg miasta, kraju lub wydarzenia:
 
 
 ;By date:
-By date:
+Według daty:
 
 
 ;month
-month
+miesiąc
 
 
 ;year
-year
+rok
 
 
 ;Date
-Date
+Data
 
 
 ;Event
-Event
+Wydarzenie
 
 
 ;Location
-Location
+Położenie
 
 
 ;City
-City
+Miasto
 
 
 ;Events
-Events
+Wydarzenia
 
 
 # Used as title of the thank you page displayed after users send the form
 ;Thank you!
-Thank you!
+Dziękujemy!
 
 
 ;Thanks!
-Thanks!
+Dzięki!
 
 
 ;We’re thrilled to see that you’re interested in coding and can’t wait to get you started.
-We’re thrilled to see that you’re interested in coding and can’t wait to get you started.
+Cieszymy się, że interesuje Cię programowanie i nie możemy się doczekać, aż zaczniesz.
 
 
 ;We’re thrilled to see that you’re interested in testing and can’t wait to get you started.
-We’re thrilled to see that you’re interested in testing and can’t wait to get you started.
+Cieszymy się, że interesuje Cię testowanie i nie możemy się doczekać, aż zaczniesz.
 
 
 ;We’re thrilled to see that you’re interested in writing and can’t wait to get you started.
-We’re thrilled to see that you’re interested in writing and can’t wait to get you started.
+Cieszymy się, że interesuje Cię redagowanie tekstów i nie możemy się doczekać, aż zaczniesz.
 
 
 ;We’re thrilled to see that you’re interested in teaching and can’t wait to get you started.
-We’re thrilled to see that you’re interested in teaching and can’t wait to get you started.
+Cieszymy się, że interesuje Cię nauczanie i nie możemy się doczekać, aż zaczniesz.
 
 
 ;We’re thrilled to see that you’re interested in helping and can’t wait to get you started.
-We’re thrilled to see that you’re interested in helping and can’t wait to get you started.
+Cieszymy się, że interesuje Cię pomaganie i nie możemy się doczekać, aż zaczniesz.
 
 
 ;We’re thrilled to see that you’re interested in translating and can’t wait to get you started.
-We’re thrilled to see that you’re interested in translating and can’t wait to get you started.
+Cieszymy się, że interesuje Cię tłumaczenie i nie możemy się doczekać, aż zaczniesz.
 
 
 ;We’re thrilled to see that you’re interested in activism and can’t wait to get you started.
-We’re thrilled to see that you’re interested in activism and can’t wait to get you started.
+Cieszymy się, że interesuje Cię aktywizm i nie możemy się doczekać, aż zaczniesz.
 
 
 ;We’re thrilled to see that you’re interested in volunteering and can’t wait to get you started.
-We’re thrilled to see that you’re interested in volunteering and can’t wait to get you started.
+Cieszymy się, że interesuje Cię wolontariat i nie możemy się doczekać, aż zaczniesz.
 
 
 ;Keep an eye on your inbox for an important message from us.
-Keep an eye on your inbox for an important message from us.
+Oczekuj od nas ważnej wiadomości e-mail.
 
 
 ;Hello!
-Hello!
+Witaj!
 
 
 ;Your Name
-Your Name
+Imię i nazwisko / pseudonim
 
 
 ;In the meantime&hellip;
-In the meantime&hellip;
+W międzyczasie&hellip;
 
 
 # Displayed in the "Thank You!" page after the email is sent for coding, testing, helping, translating.
 ;You can help by picking an easy task that only takes a few minutes &mdash; or take on a bigger challenge.
-You can help by picking an easy task that only takes a few minutes &mdash; or take on a bigger challenge.
+Możesz pomóc i wykonać łatwe zadanie, które wymaga zaledwie kilku minut, lub podjąć większe wyzwanie.
 
 
 # Displayed in the "Thank You!" page after the email is sent for coding, testing, helping, translating.
 ;Choose a Task Now
-Choose a Task Now
+Wybierz zadanie
 
 
 # Displayed in the "Thank You!" page after the email is sent for other categories.
 ;Help us tell the world how awesome Firefox is and about all the important work Mozilla does every day.
-Help us tell the world how awesome Firefox is and about all the important work Mozilla does every day.
+Pomóż nam głosić światu zalety Firefoksa oraz to jak ważną pracę Mozilla wykonuje każdego dnia.
 
 
 # Displayed in the "Thank You!" page after the email is sent for other categories.
 ;Join Now
-Join Now
+Dołącz
 
 
 ;You can create your Mozillians account now to connect with fellow Mozillians.
-You can create your Mozillians account now to connect with fellow Mozillians.
+Możesz już teraz utworzyć swoje konto członka Mozilli, aby połączyć się z resztą zespołu.
 
 
 ;Yes, create my Mozillians account
-Yes, create my Mozillians account
+Tak, utwórz moje konto członka Mozilli
 
 
 ;You will be asked to sign in before proceeding
-You will be asked to sign in before proceeding
+Przed kontynuowaniem konieczne będzie zalogowanie
 
 
 ;No thanks, I’ll just wait for the email
-No thanks, I’ll just wait for the email
+Nie, dziękuję. Poczekam na wiadomość e-mail
 
 
 # The following strings are used in the contribute form on production (https://www.mozilla.org/contribute/signup/), not in the one available on stage
@@ -694,11 +694,11 @@ Inne
 
 
 ;Hi, I’m interested in…
-Dodatkowe informacje
+Cześć, interesuje mnie…
 
 
 ;Send us a note and we can get you started right away.
-Jeżeli masz problem z wyborem, poniżej na stronie znajduje się omówienie poszczególnych pozycji z listy.
+Wyślij nam wiadomość, abyś od razu mógł zacząć.
 
 
 ;I have a suggestion for Firefox
